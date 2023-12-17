@@ -23,9 +23,15 @@
         "@types/compression": "^1.7.5",
         "@types/express": "^4.17.21",
         "@types/node": "^20.10.4",
+        "autoprefixer": "^10.4.16",
         "concurrently": "^8.2.2",
+        "flowbite": "^2.2.1",
+        "flowbite-svelte": "^0.44.20",
+        "flowbite-svelte-icons": "^0.4.5",
+        "postcss": "^8.4.32",
         "svelte": "^4.2.8",
         "svelte-check": "^3.6.2",
+        "tailwindcss": "^3.3.6",
         "tslib": "^2.6.2",
         "tsx": "^4.6.2",
         "typescript": "^5.3.3",
@@ -33,11 +39,14 @@
         "vitest": "^1.0.4"
     },
     "dependencies": {
+        "@material-tailwind/html": "^2.1.1",
         "@trpc/client": "^10.44.1",
         "@trpc/server": "^10.7.0",
         "compression": "^1.7.4",
         "express": "^4.18.2",
         "sirv": "^2.0.3",
-        "superjson": "^2.2.1"
+        "superjson": "^2.2.1",
+        "svelte-carousel": "^1.0.25",
+        "svelte-spa-router": "^4.0.0"
     }
 }
