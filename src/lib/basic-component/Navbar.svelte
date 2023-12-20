@@ -14,22 +14,22 @@
             <div class="hidden mr-4 lg:block">
             <ul class="flex flex-col gap-2 mt-2 mb-4 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
                 <li class="block p-1 font-sans text-md text-blue-gray-900 dark:text-white">
-                <a href="/" class="flex items-center hover:text-blue-700 hover:underline underline-offset-8">
+                <a href="/" class="flex items-center hover:scale-95 hover:text-blue-700 hover:underline underline-offset-8">
                     Coal and Minerals
                 </a>
                 </li>
                 <li class="block p-1 font-sans text-md text-blue-gray-900 dark:text-white">
-                <a href="/" class="flex items-center hover:text-blue-700 hover:underline underline-offset-8">
+                <a href="/" class="flex items-center hover:scale-95 hover:text-blue-700 hover:underline underline-offset-8">
                     Geothermal
                 </a>
                 </li>
                 <li class="block p-1 font-sans text-md text-blue-gray-900 dark:text-white">
-                <a href="/" class="flex items-center hover:text-blue-700 hover:underline underline-offset-8">
+                <a href="/" class="flex items-center hover:scale-95 hover:text-blue-700 hover:underline underline-offset-8">
                     Oil and Gas
                 </a>
                 </li>
                 <li class="block p-1 font-sans text-md text-blue-gray-900 dark:text-white">
-                <a href="/" class="flex items-center hover:text-blue-700 hover:underline underline-offset-8">
+                <a href="/" class="flex items-center hover:scale-95 hover:text-blue-700 hover:underline underline-offset-8">
                     Trade and Services
                 </a>
                 </li>

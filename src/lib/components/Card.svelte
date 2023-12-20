@@ -1,6 +1,6 @@
 <a
   href="/"
-  class="relative block overflow-hidden rounded-lg border border-blue-700 p-4 sm:p-6 lg:p-8 hover:scale-105">
+  class="relative block overflow-hidden rounded-lg border border-blue-700 p-4 sm:p-6 lg:p-8 hover:scale-95">
   <span
     class="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-tr from-blue-700 to-blue-900 hover:bg-blue-500"
   ></span>

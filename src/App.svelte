@@ -14,10 +14,8 @@
     <div class="py-8">
       <Alert/>
     </div>
-
     <Home/>
-    
-    <div class="absolute bottom-4 right-8 lg:right-16">
+    <div class="sticky bottom-4 right-8 lg:right-16 z-20">
       <BottonAi/>
     </div>
   </body>
